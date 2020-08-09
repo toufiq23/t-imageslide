@@ -4,11 +4,14 @@
 	border:0;
 	}
 
+.images {
+	display: flex;
+	justify-content: center;
+}
+
 img {
-	position: relative;
 	border: 4mm ridge blue;
 	margin-top: 10px;
-	left: 30%;
 }
 
 .created {
