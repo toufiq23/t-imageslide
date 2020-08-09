@@ -1,0 +1,14 @@
+{
+  "name": "js_simple-img-slide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_simple-img-slide.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.1"
+  },
+  "author": "M Toufiq ELAHI",
+  "license": "ISC"
+}
